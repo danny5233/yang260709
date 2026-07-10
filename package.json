@@ -16,7 +16,9 @@
     "geist": "^1.5.1",
     "next": "^16.0.7",
     "react": "^19.2.1",
-    "react-dom": "^19.2.1"
+    "react-dom": "^19.2.1",
+    "firebase": "^10.0.0",
+    "lucide-react": "latest"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
